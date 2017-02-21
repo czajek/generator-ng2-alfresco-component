@@ -120,7 +120,8 @@ If you have answered `Yes` for the generator question `Do you want a demo projec
 You will need installing npm dependencies for the generated demo project separately:
 
 ```sh
-cd demonpm run test
+cd demo
+npm run test
 npm install
 npm run start
 ```
